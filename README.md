@@ -1,4 +1,5 @@
 # E-commerce-back-end
+For this challenge I was asked to build the back end for an e-commerce site.
 
 # Links 
 Youtube Demonstration: https://www.youtube.com/watch?v=O-eP8hBtVZI
